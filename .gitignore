@@ -101,8 +101,6 @@ ENV/
 .mypy_cache/
 
 # database
-database/
-train_package/
 
 .DS_Store
 .idea/
